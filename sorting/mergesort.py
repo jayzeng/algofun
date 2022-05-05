@@ -42,4 +42,5 @@ class TestSort(unittest.TestCase):
         self.assertEqual(sorted_nums, nums)
 
 if __name__ == "__main__":
+    print("merge sort")
     unittest.main()
