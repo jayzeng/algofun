@@ -1,7 +1,8 @@
 import unittest
 
 # quick sort
-# time: 
+# time: avg(o(nlog(n)), worst(o(n^2))
+# https://www.khanacademy.org/computing/computer-science/algorithms/quick-sort/a/quick-sort
 def quicksort(nums, start, end):
     # partition the list by choosing a pivot
     # different strategies can be used
