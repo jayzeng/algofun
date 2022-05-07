@@ -1,5 +1,5 @@
 # Algofun
-This project is for my personal study and practice. Do not use it for production.
+Collection of famous algorithms and data structures that I implement for fun. 
 
 Sorting:
 - [ ] Bubble Sort
@@ -8,3 +8,4 @@ Sorting:
 - [x] Merge Sort
 - [x] Quick Sort
 - [ ] Heap Sort
+- [x] Counting Sort
