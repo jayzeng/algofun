@@ -72,5 +72,5 @@ class TestSort(unittest.TestCase):
             self.lst_equal(sorted_nums, expected_nums)
 
 if __name__ == "__main__":
-    print("quick sort")
+    print("counting sort")
     unittest.main()
