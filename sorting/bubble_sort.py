@@ -70,5 +70,5 @@ class TestSort(unittest.TestCase):
             self.lst_equal(optimized_sorted_nums, expected_nums)
 
 if __name__ == "__main__":
-    print("insertion sort")
+    print("bubble sort")
     unittest.main()

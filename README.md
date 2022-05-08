@@ -7,7 +7,7 @@ Each algorithm is implemented in a separate file.
 # Contents
 Sorting:
 - [x] Bubble Sort
-- [ ] Selection Sort
+- [x] Selection Sort
 - [x] Insertion Sort
 - [ ] Heap Sort
 - [ ] Shell Sort
