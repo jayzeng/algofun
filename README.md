@@ -6,11 +6,12 @@ Each algorithm is implemented in a separate file.
 
 # Contents
 Sorting:
-- [ ] Bubble Sort
+- [x] Bubble Sort
 - [ ] Selection Sort
-- [ ] Insertion Sort
+- [x] Insertion Sort
 - [ ] Heap Sort
 - [ ] Shell Sort
+- [ ] Pancake Sort
 - [x] Merge Sort
 - [x] Quick Sort
 - [x] Counting Sort
@@ -33,3 +34,18 @@ Tree:
 Rate limit:
 - [ ] Leaky Bucket
 - [ ] Token Bucket
+
+Miscellaneous:
+- [ ] Binary Search
+- [ ] Tries
+- [ ] BFS
+- [ ] DFS
+- [ ] KMP
+- [ ] Dijkstra
+- [ ] Flood Fill
+- [ ] A*
+- [ ] Floyd-Warshall
+- [ ] Kruskal
+- [ ] Bellman-Ford
+- [ ] Topological Sort
+- [ ] Union-Find
