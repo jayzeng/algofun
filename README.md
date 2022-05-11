@@ -9,7 +9,7 @@ Sorting:
 - [x] Bubble Sort
 - [x] Selection Sort
 - [x] Insertion Sort
-- [ ] Heap Sort
+- [x] Heap Sort
 - [ ] Shell Sort
 - [ ] Pancake Sort
 - [x] Merge Sort
