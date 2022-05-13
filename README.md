@@ -49,3 +49,6 @@ Miscellaneous:
 - [ ] Bellman-Ford
 - [ ] Topological Sort
 - [ ] Union-Find
+
+Coding problems:
+- [x] Encode and Decode String

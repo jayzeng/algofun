@@ -18,7 +18,6 @@ def bubble_sort_optimized(nums):
     # when no swap is made, the list is sorted
     # introduce a counter to stop the loop if no swap is made
     # reduce from n to n - k 
-
     swapped = True
     num_iterations = 0
 
