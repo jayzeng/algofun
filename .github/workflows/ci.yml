@@ -19,6 +19,10 @@ jobs:
         with:
           python-version: 3.6
 
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+
       - name: Run tests with pytest
         run: |
           find . -iname '*.py' -exec python3 {} \;

@@ -18,17 +18,21 @@ Sorting:
 - [ ] Radix Sort
 - [ ] Bucket Sort
 
+Linked List:
+- [x] Single Linked List
+
 Tree:
+- [x] Singly Linked List
 - [ ] Binary Tree
 - [ ] Binary Search Tree
 - [ ] AVL Tree
 - [ ] Red-Black Tree
 - [ ] Splay Tree
 - [ ] Segment Tree
+- [ ] Interval Tree
 - [ ] Fenwick Tree
 - [ ] Treap (Cartesian tree)
-
-- [ ] Bloom Filter
+- [x] Bloom Filter
 - [ ] Cuckoo Filter
 
 Rate limit:
@@ -49,6 +53,8 @@ Miscellaneous:
 - [ ] Bellman-Ford
 - [ ] Topological Sort
 - [ ] Union-Find
+- [ ] Distributed Sorting
+- [ ] Raft
 
 Coding problems:
 - [x] Encode and Decode String

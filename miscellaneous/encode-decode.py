@@ -59,4 +59,5 @@ class TestSort(unittest.TestCase):
             self.assertEqual(words, decoded_words)
 
 if __name__ == "__main__":
+    print("encode/decode strings")
     unittest.main()
