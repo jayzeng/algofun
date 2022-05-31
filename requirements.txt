@@ -6,7 +6,3 @@ mmh3==3.0.0
 packaging==21.3
 pluggy==1.0.0
 py==1.11.0
-pycodestyle==2.8.0
-pyflakes==2.4.0
-pyparsing==3.0.8
-tomli==2.0.1
