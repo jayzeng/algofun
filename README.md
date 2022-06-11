@@ -18,6 +18,9 @@ Sorting:
 - [ ] Radix Sort
 - [ ] Bucket Sort
 
+Search
+- [x] Binary Search
+
 Linked List:
 - [x] Single Linked List
 
